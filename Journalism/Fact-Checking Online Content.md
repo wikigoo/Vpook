@@ -11,6 +11,7 @@ fact check guide, how to spot fake news, misinformation guide, digital literacy,
 To fact-check online content, use a systematic 5-step process: perform an initial gut check on your emotional reaction, investigate the source using lateral reading, evaluate the content with the CRAAP test, verify specific claims with digital tools, and conduct a final self-check for personal bias.
 
 ---
+
 title: "A Step-by-Step Guide to Fact-Checking Online Content"
 subtitle: "Master the art of digital verification to identify and debunk misinformation."
 date: 2025-11-01
@@ -18,7 +19,8 @@ categories: [Research, Journalism]
 tags: [guide, workflow, beginner, fact-checking]
 description: >
   Learn a systematic, 5-step process for fact-checking online news and media. This guide covers source investigation, content analysis, evidence verification, and mitigating personal bias to build media literacy.
-toc: true
+  toc: true
+  
 ---
 
 # A Step-by-Step Guide to Fact-Checking Online Content
