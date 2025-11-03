@@ -1,17 +1,20 @@
-```
 ---
-title: "Analytical Journalism: Step-by-Step Reporting Workflow"
-subtitle: "A complete field guide for data-driven, unbiased reporting"
+title:   "Analytical Journalism: Step-by-Step Reporting Workflow"
+subtitle:  "A complete field guide for data-driven, unbiased reporting"
 date: 2025-10-29
-categories: [Journalism, Writing]
-tags: [guide, research, workflow, intermediate]
+categories: Journalism, Writing
+tags: 
+ - guide
+ - research
+ - workflow
+ - intermediate
 description: >
   A full workflow for creating analytical journalism reports—from topic selection
   and data collection to analysis, structuring, and editing. Learn tools, verification,
   and proven practices for building evidence-based stories.
 toc: true
+
 ---
-```
 
 # Analytical Journalism: Step-by-Step Reporting Workflow
 

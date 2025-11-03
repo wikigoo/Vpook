@@ -1,7 +1,13 @@
 ---
 title: "Independent Newsroom Playbook: Publish, Defend, Sustain"
-category: "Journalism"
-tags: ["guide", "workflow", "optimization", "template"]
+category: 
+ - Journalism
+ - Writing
+tags:
+  - guide
+  - writing
+  - Headline
+  - journalism
 updated: 2025-11-01
 summary: "End-to-end operating playbook for independent newsrooms: infra, legal/safety posture, funding mix, verification, release, defense, distribution, trust, and advocacy."
 ---

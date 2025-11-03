@@ -1,10 +1,16 @@
 ---
-title: "A Guide to the Investigative Journalism Workflow"
+title: A Guide to the Investigative Journalism Workflow
 subtitle: "From Hypothesis to Publication: A Step-by-Step Process for Executing High-Impact Investigations."
 date: 2025-10-31
-categories: [Journalism, Research]
-tags: [guide, workflow, intermediate, best-practices]
-description: >
+categories:
+  - Journalism
+  - Writing
+tags:
+  - guide
+  - writing
+  - Headline
+  - journalism
+description: |
   Learn the complete, structured workflow for conducting an investigative journalism project. This guide covers everything from forming a testable hypothesis and organizing evidence to verifying facts and publishing for impact, based on best practices from leading journalism organizations.
 toc: true
 ---

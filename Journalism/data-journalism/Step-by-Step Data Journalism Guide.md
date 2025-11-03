@@ -4,25 +4,15 @@ title: "Step-by-Step Data Journalism Guide"
 subtitle: "A practical workflow from data collection to storytelling"
 date: 2025-10-27 10:00:00 +0000
 author: Wikigoo
-categories: [Journalism, Data]
+categories: [Journalism, Writing]
 tags: [data-journalism, workflow, guide, storytelling]
 summary: >
   A structured guide outlining every stage of data journalism—from gathering to visualizing and publishing data-driven stories.
 description: >
   A practical, ten-step workflow combining methods, tools, and ethics for modern data journalists to gather, analyze, and visualize data effectively.
-image:
-  path: /assets/images/featured/data-journalism-guide.jpg
-  alt: "A journalist analyzing data visualizations on screen"
-  lqip: /assets/images/featured/lqip.webp
-pin: false
 toc: true
 lang: en
-last_modified_at: 2025-10-27
-render_with_liquid: false
-comments: false
-accessibility:
-  reading_level: B2
-  contrast_safe: true
+
 ---
 
 # Step-by-Step Data Journalism Guide

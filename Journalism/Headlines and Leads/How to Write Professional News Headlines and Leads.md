@@ -1,3 +1,19 @@
+---
+title: How to Write Professional News Headlines and Leads
+subtitle: A step-by-step guide to crafting clear, concise, and compelling news openings.
+date: 2023-10-27
+categories:
+  - Journalism
+  - Writing
+tags:
+  - guide
+  - writing
+  - Headline
+  - journalism
+description: |
+  A comprehensive guide for novice journalists on the essential skill of writing formal news headlines and leads. Learn the rules of the inverted pyramid, how to identify a story's core angle, and a step-by-step process for writing with clarity and impact.
+toc: true
+---
 **Alternative Search Terms:**
 - how to write a lede, news writing guide, journalistic headlines, inverted pyramid writing, lede paragraph tutorial
 
@@ -8,20 +24,6 @@
 
 **Quick Answer:**
 - This guide provides a step-by-step method for writing professional news headlines (5-10 words, active voice, present tense) and leads (one sentence, 25-40 words, key facts first, attribution last) based on journalistic best practices.
-
----
-```yaml
----
-title: "How to Write Professional News Headlines and Leads"
-subtitle: "A step-by-step guide to crafting clear, concise, and compelling news openings."
-date: 2023-10-27
-categories: [Journalism, Writing]
-tags: [guide, workflow, beginner, writing]
-description: >
-  A comprehensive guide for novice journalists on the essential skill of writing formal news headlines and leads. Learn the rules of the inverted pyramid, how to identify a story's core angle, and a step-by-step process for writing with clarity and impact.
-toc: true
----
-```
 
 # How to Write Professional News Headlines and Leads
 
